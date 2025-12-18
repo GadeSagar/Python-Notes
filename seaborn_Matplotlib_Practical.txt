@@ -1,0 +1,17 @@
+DATA VISUALIZATION & EDA practical questions using the kc_house_data.csv dataset.
+
+Q1. Plot distribution of house prices
+Q2. Visualize relationship between sqft_living and price
+Q3. Compare house prices by number of bedrooms (Boxplot)
+Q4. Average house price by number of bedrooms (Bar chart)
+Q5. Compare renovated vs non-renovated houses
+Q6. Price comparison: Renovated vs Non-Renovated (Boxplot)
+Q7. Trend of average house price over years
+Q8. Heatmap of correlation with price
+Q9. Distribution of house grades
+Q10. Price variation across house grades
+Q11. Waterfront vs non-waterfront price comparison
+Q12. Price vs bathrooms (Regression plot)
+Q13. Compare living area distribution for expensive houses
+Q14. Zipcode-wise average price (Top 10)
+Q15. Pairplot for multivariate analysis
