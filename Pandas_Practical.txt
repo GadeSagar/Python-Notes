@@ -1,0 +1,17 @@
+Pandas practical questions with answers using the kc_house_data.csv dataset.
+
+Q1. Display dataset shape, columns, and data types
+Q2. Check missing values and missing percentage
+Q3. Find average, median, and max house price
+Q4. Count how many houses have waterfront view
+Q5. Find average price by number of bedrooms
+Q6. Filter houses with price > 1 million and bedrooms ≥ 4
+Q7. Create a new column: price_per_sqft.
+Q8. Find top 10 most expensive houses.
+Q9. Compare average price of renovated vs non-renovated houses.
+Q10. Extract year and month from date column.
+Q11. Find average house price per year
+Q12. Identify outliers in price using IQR method.
+Q13. Find top 5 zipcodes with highest average house price.
+Q14. Categorize houses into price segments.
+Q15. Correlation of numeric features with price
